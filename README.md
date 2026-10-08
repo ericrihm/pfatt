@@ -334,3 +334,7 @@ This took a lot of testing and a lot of hours to figure out. A unique solution w
 - [aus](https://github.com/aus) - 31m9ujhbsRRZs4S64njEkw8ksFSTTDcsRU
 - [/u/MisterBazz](https://www.reddit.com/user/MisterBazz/) - [for the initial setup guide on U-verse TV documentation](https://www.reddit.com/r/PFSENSE/comments/ag43rb/att_bgw210_true_independent_bridge_mode_uverse/) that formed the basis for [U-VERSE_TV.md](U-VERSE_TV.md)
 - [0xC0ncord](https://github.com/0xC0ncord) - for the [U-Verse TV Documentation](U-VERSE_TV.md)
+
+## Status: archived reference (2026-10-06)
+
+This is a 2020 upstream mirror of MonkWho/pfatt (AT&T U-Verse pfSense netgraph bridge-mode notes), retained as a historical reference. This status-documentation amendment does not change or qualify the upstream runtime/scripts. No successor capability or estate deployment is verified here. workspace-hub still lists it as router-security research (`workspace-hub/scripts/clone-security-repos.sh`: "pfatt:AT&T pfSense bypass research (router security)"), so the archival label alone does not establish that cloning has stopped. Full-history redistribution rights and pfSense/hardware deployment qualification remain separate, unapproved scopes.
